@@ -1,0 +1,6 @@
+{
+  "name": "CardioVision Invoice",
+  "description": "نظام طباعة وإصدار فواتير صرف رسمية ديناميكية لمنصة CardioVision.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
